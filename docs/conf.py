@@ -5,10 +5,10 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "F5 Read The Docs"
+classname = "F5 Networks Japan Technical Information"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_url = "https://github.com/tkam8/f5bigiq-setupguide"
+github_url = "https://github.com/BeF5/f5j-tech-info"
 
 git_branch_name = 'master'
 
