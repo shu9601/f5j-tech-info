@@ -35,4 +35,3 @@ F5のオフィシャルなドキュメントはこちらにございます。
    :glob:
 
    content*/content*
-   module*/module*
