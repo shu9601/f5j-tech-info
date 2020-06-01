@@ -1,14 +1,14 @@
-F5 readthedocs Template
+F5 Networks Japan Partner SE
 ==================
 
-This repository contains the source for F5 readthedocs Template. 
+This repository contains the source for F5 Networks Japan Partner SE Documentation. 
 
 To view the documentation please visit:
 
-https://f5-readthedocs-template.readthedocs.io/en/latest/
+https://f5j-tech-info.readthedocs.io/ja/latest/
 
 
 Support
 -------
 
-Bugs and enhancements can be made by opening an `issue <https://github.com/tkam8/f5-readthedocs-template/issues>`__ within the `GitHub <https://github.com/tkam8/f5-readthedocs-template>`__ repository.
+Bugs and enhancements can be made by opening an `issue <https://github.com/BeF5/f5j-tech-info/issues>`__ within the `GitHub <https://github.com/BeF5/f5j-tech-info>`__ repository.
