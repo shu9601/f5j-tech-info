@@ -15,23 +15,10 @@ F5のオフィシャルなドキュメントはこちらにございます。
 - F5 Cloud Docs: https://clouddocs.f5.com/
 - F5 DevCentral（コミュニティ）: https://devcentral.f5.com/
 
-コンテンツ
---------------------------------
-このページでは、以下のコンテンツを発信しております。
-- かんたんセットアップガイド
-        - BIG-IP LTM かんたんセットアップガイド v15.1
-        - BIG-IP APM かんたんセットアップガイド v15.1
-        - F5 Advanced WAF かんたんセットアップガイド v15.1
-- ソリューション紹介
-        - BIG-IP as Forward Proxy
-        - BIG-IP SaaSソリューション
-		- BIG-IP Duo連携
-		- BIG-IP OPSWAT連携
-		- BIG-IP RSA連携
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: コンテンツ
    :glob:
 
    content*/content*
