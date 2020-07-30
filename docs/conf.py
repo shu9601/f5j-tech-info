@@ -93,8 +93,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'F5 Read The Docs'
-copyright = u'F5 Networks, Inc.'
-author = u'F5 Networks, Inc.'
+copyright = u'F5ネットワークスジャパン合同会社'
+author = u'F5ネットワークスジャパン合同会社'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
