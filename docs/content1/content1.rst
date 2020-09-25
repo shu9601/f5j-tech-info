@@ -7,6 +7,7 @@
 
 .. toctree::
    :titlesonly:
+   :caption: コンテンツ
    :glob:
 
    
