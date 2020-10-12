@@ -5,7 +5,7 @@
 
 - `F5 SSLO セットアップガイド i-FILTER編 <https://f5j-sslo-ifilter.readthedocs.io/>`__ 
 
-- `BIG-IP APMセットアップガイド PassLogicクラウド版 編 <https://f5j-apm-passlogiccloud.readthedocs.io//>`__ 
+- `BIG-IP APMセットアップガイド PassLogicクラウド版 編 <https://f5j-apm-passlogiccloud.readthedocs.io/>`__ 
 
 .. toctree::
    :titlesonly:
