@@ -1,13 +1,17 @@
-アーカイブ・古い資料
+DCS セットアップガイド・ラボガイド
 ================================================
 
-| こちらのページにあるコンテンツは、内容がすでに古くなっています。
-| 過去の情報ということをご理解の上ご参照ください。
-| 
-- `F5 Cloud Services Essential App Protect Service 簡単セットアップガイド <https://f5j-easy-setup-eap.readthedocs.io/>`__ 
+- `DCS チュートリアル <https://github.com/nakadaisuke/volterra-tutorial>`__ 
 
+- `DCS セットアップガイド - Site編 <https://f5j-dc-site.readthedocs.io/>`__ 
+
+- `DCS セットアップガイド - Mesh編 <https://f5j-dc-secure-mesh.readthedocs.io//>`__ 
+
+- `DCS WAAP セットアップガイド <https://f5j-dc-waap.readthedocs.io//>`__ 
+
+- `DCS トラブルシューティング <https://github.com/nakadaisuke/dcs-trouble-shooting>`__
 
 .. toctree::
    :titlesonly:
-   :caption: アーカイブ
+   :caption: コンテンツ
    :glob:
