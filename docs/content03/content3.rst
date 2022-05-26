@@ -11,7 +11,7 @@ NGINX セットアップガイド・ラボガイド
 
 - `NGINX Ingress Controller Lab Guide <https://f5j-nginx-ingress-controller-lab1.readthedocs.io/>`__ 
 
-- `NGINX Service Mesh Lab Guide <https://f5j-nginx-ingress-controller-lab1.readthedocs.io/>`__ 
+- `NGINX Service Mesh Lab Guide <https://f5j-nginx-service-mesh.readthedocs.io/en/latest/index.html>`__ 
 
 .. toctree::
    :titlesonly:
