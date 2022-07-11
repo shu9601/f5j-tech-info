@@ -13,6 +13,8 @@ NGINX セットアップガイド・ラボガイド
 
 - `NGINX Service Mesh Lab Guide <https://f5j-nginx-service-mesh.readthedocs.io/en/latest/index.html>`__ 
 
+- `NGINX Kubernetes Observability Lab <https://f5j-nginx-k8s-observability.readthedocs.io/en/latest/index.html>`__ 
+
 .. toctree::
    :titlesonly:
    :caption: コンテンツ
