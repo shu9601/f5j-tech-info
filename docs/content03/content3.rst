@@ -7,7 +7,7 @@ NGINX セットアップガイド・ラボガイド
 
 - `NGINX Plus Lab セキュリティ編 <https://f5j-nginx-plus-lab2-security.readthedocs.io/>`__ ``(NAP WAFのみ)``
 
-- `NGINX Plus Lab Ansible <https://f5j-nginx-ansible.readthedocs.io/>`
+- `NGINX Plus Lab Ansible <https://f5j-nginx-ansible.readthedocs.io/>`__
 
 - `NGINX Ingress Controller Lab Guide <https://f5j-nginx-ingress-controller-lab1.readthedocs.io/>`__ 
 
