@@ -5,6 +5,8 @@ NGINX セットアップガイド・ラボガイド
 
 - `NGINX Plus Lab 基本編 <https://f5j-nginx-plus-lab1.readthedocs.io/>`__ 
 
+- `NGINX Plus Lab 応用編 <https://f5j-nginx-plus-lab2.readthedocs.io/>`__ 
+
 - `NGINX Plus Lab セキュリティ編 <https://f5j-nginx-plus-lab2-security.readthedocs.io/>`__ ``(NAP WAFのみ)``
 
 - `NGINX Plus Lab Ansible <https://f5j-nginx-ansible.readthedocs.io/>`__
