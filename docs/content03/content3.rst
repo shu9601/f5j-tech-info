@@ -11,6 +11,8 @@ NGINX セットアップガイド・ラボガイド
 
 - `NGINX Plus Ansible Lab <https://f5j-nginx-ansible.readthedocs.io/>`__
 
+- `NGINX Plus Performance Lab <https://f5j-nginx-performance.readthedocs.io/>`__
+
 - `NGINX Ingress Controller Lab <https://f5j-nginx-ingress-controller-lab1.readthedocs.io/>`__ 
 
 - `NGINX Service Mesh Lab <https://f5j-nginx-service-mesh.readthedocs.io/>`__ 
