@@ -19,6 +19,8 @@ NGINX セットアップガイド・ラボガイド
 
 - `NGINX Kubernetes Observability Lab <https://f5j-nginx-k8s-observability.readthedocs.io/>`__ 
 
+- `NGINX Kubernetes APIGW Lab <https://f5j-nginx-k8s-apigw.readthedocs.io/>`__ 
+
 .. toctree::
    :titlesonly:
    :caption: コンテンツ
