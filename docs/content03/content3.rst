@@ -3,6 +3,8 @@ NGINX セットアップガイド・ラボガイド
 
 - `NGINX Plus トライアルライセンス発行手順 <https://f5j-nginx-plus-trial.readthedocs.io/>`__ 
 
+- `NGINX プロダクトインフォ <https://f5j-nginx-product-info.readthedocs.io/>`__ 
+
 - `NGINX Plus Lab 基本編 <https://f5j-nginx-plus-lab1.readthedocs.io/>`__ 
 
 - `NGINX Plus Lab 応用編 <https://f5j-nginx-plus-lab2.readthedocs.io/>`__ 
