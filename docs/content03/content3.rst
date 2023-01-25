@@ -9,7 +9,7 @@ NGINX セットアップガイド・ラボガイド
 
 - `NGINX Plus Lab 応用編 <https://f5j-nginx-plus-lab2.readthedocs.io/>`__ 
 
-- `NGINX Plus Lab セキュリティ編 <https://f5j-nginx-plus-lab2-security.readthedocs.io/>`__ ``(NAP WAFのみ)``
+- `NGINX Plus Lab セキュリティ編 <https://f5j-nginx-plus-lab2-security.readthedocs.io/>`__ 
 
 - `NGINX Instance Manager Lab <https://f5j-nginx-nim.readthedocs.io/en/latest/index.html>`__
 
