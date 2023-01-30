@@ -1,15 +1,15 @@
-DCS セットアップガイド・ラボガイド
+XC Services セットアップガイド・ラボガイド
 ================================================
 
-- `DCS チュートリアル <https://github.com/nakadaisuke/volterra-tutorial>`__ 
+- `XC Services チュートリアル <https://github.com/nakadaisuke/volterra-tutorial>`__ 
 
-- `DCS セットアップガイド - Site編 <https://f5j-dc-site.readthedocs.io/>`__ 
+- `XC Services セットアップガイド - Site編 <https://f5j-dc-site.readthedocs.io/>`__ 
 
-- `DCS セットアップガイド - Mesh編 <https://f5j-dc-secure-mesh.readthedocs.io//>`__ 
+- `XC Services セットアップガイド - Mesh編 <https://f5j-dc-secure-mesh.readthedocs.io//>`__ 
 
-- `DCS WAAP セットアップガイド <https://f5j-dc-waap.readthedocs.io//>`__ 
+- `XC Services WAAP セットアップガイド <https://f5j-dc-waap.readthedocs.io//>`__ 
 
-- `DCS トラブルシューティング <https://github.com/nakadaisuke/dcs-trouble-shooting>`__
+- `XC Services トラブルシューティング <https://github.com/nakadaisuke/dcs-trouble-shooting>`__
 
 .. toctree::
    :titlesonly:
