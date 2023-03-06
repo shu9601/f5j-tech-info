@@ -19,6 +19,8 @@ NGINX セットアップガイド・ラボガイド
 
 - `NGINX Container Build  <https://f5j-nginx-container-build.readthedocs.io/en/latest/index.html>`__
 
+- `NGINX Agent <https://f5j-nginx-agent.readthedocs.io/en/latest/index.html>`__
+
 - `NGINX Ingress Controller Lab <https://f5j-nginx-ingress-controller-lab1.readthedocs.io/>`__ 
 
 - `NGINX Service Mesh Lab <https://f5j-nginx-service-mesh.readthedocs.io/>`__ 
