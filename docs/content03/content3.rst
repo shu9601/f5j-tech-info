@@ -21,6 +21,8 @@ NGINX セットアップガイド・ラボガイド
 
 - `NGINX Agent <https://f5j-nginx-agent.readthedocs.io/en/latest/index.html>`__
 
+- `NGINX Plus Let's Encrypt <https://f5j-nginx-letsencrypt.readthedocs.io>`__
+
 - `NGINX Ingress Controller Lab <https://f5j-nginx-ingress-controller-lab1.readthedocs.io/>`__ 
 
 - `NGINX Service Mesh Lab <https://f5j-nginx-service-mesh.readthedocs.io/>`__ 
