@@ -9,7 +9,7 @@ XC Services セットアップガイド・ラボガイド
 
 - `XC Services WAAP セットアップガイド <https://f5j-dc-waap.readthedocs.io//>`__ 
 
-- ` F5 Distributed Cloud Bot Defense Connector for Amazon CloudFront セットアップガイド <https://f5j-xc-bd-cf-connector.readthedocs.io/>`__
+- `F5 Distributed Cloud Bot Defense Connector for Amazon CloudFront セットアップガイド <https://f5j-xc-bd-cf-connector.readthedocs.io/>`__
 
 - `XC Services トラブルシューティング <https://github.com/nakadaisuke/dcs-trouble-shooting>`__
 
